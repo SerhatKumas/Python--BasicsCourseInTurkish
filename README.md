@@ -8,12 +8,19 @@ This python course is used by :
 - [@İstanbul Üniversitesi Roket ve Uzay Klübü](https://www.roketveuzay.com/)
 
 
-## Authors
-
-- Serhat Kumaş [@Github](https://www.github.com/serhatkumas) [@Linked-in](https://www.github.com/serhatkumas) 
-
-
 ## Technologies
 
 - [@Python](https://www.python.org/)
+
+
+# Hi, I'm Serhat the Author! 👋
+
+
+## 🔗 Connection Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhatkumas/)
+
+[![@Github](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/serhatkumas)
+
+
 
