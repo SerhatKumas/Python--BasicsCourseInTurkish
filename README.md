@@ -12,3 +12,8 @@ This python course is used by :
 
 - Serhat Kumaş [@Github](https://www.github.com/serhatkumas) [@Linked-in](https://www.github.com/serhatkumas) 
 
+
+## Technologies
+
+- [@Python](https://www.python.org/)
+
